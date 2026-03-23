@@ -59,7 +59,6 @@ LabelForge/
 │   └── src/main/resources/
 │       ├── application.properties
 │       ├── schema.sql        # v1 — initial schema
-│       └── schema_v2.sql     # v2 — categories + settings
 │
 └── labelforge-ui/           # React frontend
     └── src/
